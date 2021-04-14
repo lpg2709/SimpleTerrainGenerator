@@ -1,12 +1,12 @@
 # SimpleTerrainGenerator
 
-Simple use in a mesh to generate land with Simplex Noise 2D.
+Simple implementation of Perlin Noise in a mesh to generate land with Simplex Noise 2D.
 
 
 ## Dependences
 
 - [Freeglut](http://freeglut.sourceforge.net/)
-- Simplex Noise 2D implementation in C by [nowl](https://gist.github.com/nowl/828013)
+- [Simplex Noise 2D implementation in C](https://gist.github.com/nowl/828013) by [nowl](https://gist.github.com/nowl)
 
 ## Compile
 
