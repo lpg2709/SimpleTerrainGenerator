@@ -18,4 +18,4 @@ make
 ## References
 
 - [Simplex noise](https://en.wikipedia.org/wiki/Simplex_noise)
-- [Simplex noise demystified])(https://weber.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
+- [Simplex noise demystified](https://weber.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
